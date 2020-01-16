@@ -1,7 +1,7 @@
 {
   "msg": "success",
   "resCode": 0,
-  "banners": [
+  "data": [
     {
       "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
       "targetUrl": "http://www.baidu.com",
