@@ -1,0 +1,10 @@
+{
+  "msg": "success",
+  "resCode": 0,
+  "banners": [
+    {
+      "imgUrl": "",
+      "targetUrl": "http://www.baidu.com"
+    }
+  ]
+}
