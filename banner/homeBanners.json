@@ -3,22 +3,27 @@
   "resCode": 0,
   "data": [
     {
-      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/ic_ks_banner01.png",
       "targetUrl": "http://www.baidu.com",
       "desc":""
     },
     {
-      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/ic_ks_banner02.png",
       "targetUrl": "http://www.baidu.com",
       "desc":""
     },
     {
-      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/ic_ks_banner03.png",
       "targetUrl": "http://www.baidu.com",
       "desc":""
     },
     {
-      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/ic_ks_banner04.png",
+      "targetUrl": "http://www.baidu.com",
+      "desc":""
+    },
+    {
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/ic_ks_banner05.png",
       "targetUrl": "http://www.baidu.com",
       "desc":""
     }
