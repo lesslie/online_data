@@ -3,8 +3,24 @@
   "resCode": 0,
   "banners": [
     {
-      "imgUrl": "",
-      "targetUrl": "http://www.baidu.com"
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "targetUrl": "http://www.baidu.com",
+      "desc":""
+    },
+    {
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "targetUrl": "http://www.baidu.com",
+      "desc":""
+    },
+    {
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "targetUrl": "http://www.baidu.com",
+      "desc":""
+    },
+    {
+      "imgUrl": "https://raw.githubusercontent.com/lesslie/online_data/master/banner/icon_bus_splash.jpg",
+      "targetUrl": "http://www.baidu.com",
+      "desc":""
     }
   ]
 }
